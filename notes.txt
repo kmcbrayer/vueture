@@ -1,0 +1,7 @@
+good and bad things tracker:
+features:
+    add good and bad things you did that day
+    store all the data
+    graph the data
+    build "karma" with more good points in a day
+    weighted karma
